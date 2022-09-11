@@ -1,0 +1,65 @@
+ * Lock                                         | Done
+ 
+ * Lock texture effects                         | Done
+ 
+ * Save, needed increased size for ranks        | Done
+ 
+ * set ranks for all maps                       | Done
+ 
+ * 3 modes                                      | Done
+ 
+ * Fix plane rotation and texture               | Done
+ 
+ * Fix ship texture                             | Done
+ 
+ * Fix evade and turning                        | Done
+ 
+ * Fix missile coordination                     | Done
+ 
+ * Fix missile model                            | Done
+ 
+ * Kill animation player                        | Done
+ 
+ * Kill animation enemies                       | Done
+ 
+ * Endings                                      | Done
+ 
+ * Tutorial pictures                            | Done
+ 
+ * Option                                       | Skip
+ 
+ * Lock target and fire                         | Done
+
+ * Missile cooldown                             | Done
+
+ * Minigun cooldown                             | Done
+
+ * Set out coordinates for missions             | Done
+
+ * Refine map textures                          | Done
+
+ * Get distant land textures                    | Done
+
+ * Replay missions                              | Done
+
+ * Fix hit enemy missile collision vs player    | Done
+
+ * Draw cockpit and overlay effects textures    | Done
+
+ * Make music manager                           | Done
+  
+ * Add music to events                          | Done
+ 
+ * Make thumbnail and background                | Done
+ 
+ * Make confirm texture                         | Done
+ 
+ * Make rocket / minigun button texture         | Done
+
+ * change name                                  | Done
+
+ * Cleanup code                                 | Done
+
+ * Make screenshots                             | Done
+
+ * Play dat game D:                             | Done
